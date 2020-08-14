@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pwat-4a24d": {
+      "hosting": {
+        "pwa": [
+          "pwat-4a24d"
+        ]
+      }
+    }
+  }
+}
